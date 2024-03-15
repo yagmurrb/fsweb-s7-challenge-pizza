@@ -9,6 +9,15 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.header {
+  background-color: #ce2829;
+  text-align: center;
+  padding: 20px 0;
+  position: top;
+}
+.header-title {
+  color: white;
+}
 
 a {
   font-weight: 500;
